@@ -30,3 +30,4 @@ screeninfo
 uiautomation
 dashscope
 groq
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
