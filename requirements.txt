@@ -30,3 +30,4 @@ screeninfo
 uiautomation
 dashscope
 groq
+azure-core>=1.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
